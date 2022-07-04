@@ -1,8 +1,8 @@
 # Getting Started Calculator Api
 
-First run command
+First install composer
 ## composer install
 
-In the project directory, you can run:
+Then run the project
 ## php artisan serve
 
